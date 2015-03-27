@@ -1,5 +1,5 @@
 # IBM_MQ_Plugin
-IBM MQ Plugin
+
 ==========================================================
 - - -
 The IBM MQ Plugin monitors a particular queue on an IBM MQ server and reports the current queue depth, queue full percentage, output input count, and open output count.
