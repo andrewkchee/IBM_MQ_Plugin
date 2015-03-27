@@ -1,0 +1,333 @@
+[2015-03-26 10:41:12,133] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 10:42:07,426] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 10:42:59,009] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 10:43:59,086] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 10:44:58,974] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 10:45:59,043] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 10:46:59,004] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 10:48:29,373] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:00:20,926] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:01:19,971] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:01:23,091] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:02:22,116] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:02:22,180] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:03:19,963] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:03:21,376] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:04:01,260] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:04:26,325] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:05:19,956] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:06:26,153] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:07:19,956] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:08:28,173] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:09:19,960] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:11:19,934] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:12:20,037] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:13:19,961] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:14:20,030] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:15:19,968] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:16:20,035] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:17:19,966] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:18:20,037] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:19:19,937] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:20:20,014] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:21:19,963] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:22:20,035] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:42,410] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:42,503] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:42,577] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:42,652] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:42,733] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:42,809] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:42,884] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:42,959] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,033] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,107] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,181] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,256] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,330] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,405] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,480] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,555] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,630] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,704] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,779] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,853] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:43,931] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,006] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,081] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,155] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,229] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,302] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,376] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,450] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,524] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,597] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,671] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,773] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 11:55:44,994] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,066] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,139] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,209] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,279] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,358] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,433] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,508] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,371] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,446] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,538] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,625] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,696] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,768] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,839] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,910] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:16,980] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:17,051] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:17,189] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:17,265] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:17,338] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:17,411] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:17,481] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:17,551] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:17,625] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:17,699] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:17,769] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,024] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,095] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,166] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,238] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,308] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,378] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,449] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,519] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,590] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,661] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,732] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,802] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,873] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:18,945] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,016] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,087] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,158] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,231] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,301] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,372] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,446] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,518] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,588] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,659] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,731] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,803] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,874] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:19,945] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:20,015] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:20,085] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:20,156] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:20,226] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:20,296] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:20,367] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 12:56:20,437] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:16,483] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:16,561] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:16,636] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:16,710] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:16,783] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:16,856] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:16,931] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,006] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,079] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,155] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,228] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,303] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,381] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,452] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,526] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,599] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,673] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,747] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,825] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,900] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:17,977] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:18,055] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:18,131] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:18,206] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:18,283] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:18,359] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:18,444] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:18,524] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:18,600] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:18,668] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:18,734] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:18,800] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:19,271] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:19,339] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:19,406] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:19,476] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:19,546] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:19,629] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:19,697] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:19,767] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:37:19,859] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:38:19,967] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:39:20,075] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:42:24,156] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:43:23,480] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:45:08,027] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:46:07,447] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:47:07,455] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:48:07,525] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:49:07,478] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:50:07,511] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:51:07,460] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 13:52:07,525] ERROR com.newrelic.metrics.publish.binding.Request - Failed server response: 400, {"error":"name required for each component"}
+[2015-03-26 14:29:24,602] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 3 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:30:24,020] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 3 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:31:24,053] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 4 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:32:24,030] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 4 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:33:24,048] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 4 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:34:24,021] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 6 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:36:24,050] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 6 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:37:24,035] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 6 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:38:24,028] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 6 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:39:24,029] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 0 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:40:24,042] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 0 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:41:24,028] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 0 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:42:24,024] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 0 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:43:24,026] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 0 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:44:24,056] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 2 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:45:24,036] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 2 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:46:24,026] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 2 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:47:24,077] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 2 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:48:24,027] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 2 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:48:31,298] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 2 | OpenInputCount: 0 | OpenOutputCount: 0
+[2015-03-26 14:49:03,714] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 2 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.0
+[2015-03-26 14:54:58,071] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 2 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.04
+[2015-03-26 14:55:57,469] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 3 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.060000002
+[2015-03-26 14:56:57,462] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 4 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.08
+[2015-03-26 14:57:57,473] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 4 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.08
+[2015-03-26 14:58:57,460] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 4 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.08
+[2015-03-26 14:59:57,484] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 4 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.08
+[2015-03-26 15:00:57,479] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 4 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.08
+[2015-03-26 15:01:57,468] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 4 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.08
+[2015-03-26 15:02:57,473] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:03:57,487] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:04:57,533] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:05:57,477] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:06:57,461] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:07:57,536] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:08:57,480] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:09:57,516] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:10:57,473] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:11:57,493] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:12:57,541] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:13:57,511] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:14:57,233] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:15:57,207] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:16:57,221] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:17:57,211] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:18:57,243] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:19:57,215] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:20:57,215] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:21:57,213] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:22:57,257] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:23:57,234] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:24:57,216] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:25:57,210] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:26:57,194] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:27:57,206] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:28:57,200] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:29:57,221] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:30:57,201] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:31:57,205] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:32:57,208] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 8 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.16
+[2015-03-26 15:33:57,216] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:34:57,214] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:35:57,218] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:36:57,206] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:37:57,296] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:38:57,199] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:39:57,202] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:40:57,203] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:41:57,203] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:42:57,202] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:43:57,211] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:44:57,219] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:45:57,212] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:46:57,211] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 10 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.2
+[2015-03-26 15:47:57,219] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:48:57,236] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:49:57,217] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:50:57,212] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:51:57,250] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:52:57,210] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:53:57,229] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:54:57,234] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:55:57,219] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:56:57,208] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:57:57,212] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:58:57,205] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 15:59:57,193] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 16:00:57,195] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 16:01:57,201] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 16:02:57,194] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 16:03:57,194] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 16:04:57,206] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 16:05:57,194] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 16:06:57,276] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 16:07:57,204] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 16:08:57,186] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 16:09:57,198] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-26 16:10:57,207] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:02:57,276] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:03:57,239] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:04:57,213] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:05:57,207] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:06:57,207] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:07:57,197] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:08:57,303] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:09:57,204] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:10:57,204] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:11:57,227] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:12:57,201] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:13:57,240] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:14:57,228] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:15:57,210] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:16:57,220] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:17:57,206] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:18:57,219] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:19:57,207] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:20:57,212] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:21:57,212] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:22:57,212] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:23:57,225] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:24:57,199] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:25:57,211] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:26:57,203] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:27:57,219] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:28:57,210] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:29:57,198] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:30:57,196] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:31:57,207] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:32:57,197] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:33:57,513] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:08,581] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:09,120] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:09,437] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:10,534] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:11,054] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:11,538] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:11,910] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:12,249] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:12,646] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:13,186] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:13,560] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:46:57,193] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:47:57,204] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:48:57,524] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:49:57,224] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:50:57,219] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:51:57,197] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:52:57,210] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:53:57,200] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:54:57,268] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:55:57,205] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001
+[2015-03-27 08:56:57,209] INFO  com.newrelic.examples.ibmmq.IBMMQAgent - QueueDepth: 12 | OpenInputCount: 0 | OpenOutputCount: 0 | PercentageFull: 0.24000001

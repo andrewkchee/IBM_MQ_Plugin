@@ -1,0 +1,14 @@
+{
+  "agents": [
+    {
+      "name" : "192.241.198.108:QMA/postcard",
+      "channel" : "TestServerConn",
+      "host" : "192.241.198.108",
+      "port" : "5904",
+      "user" : "mqm",
+      "password" : "mqpswd1",
+      "queuemanager" : "QMA",
+      "queue" : "postcard"
+    }
+  ]
+}
